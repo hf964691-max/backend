@@ -47,7 +47,7 @@ const githubData = {
 app.get("/", (req, res) => {
   res.send(`
     <h1>Hello World!</h1>
-    <h2>Welcome to my first backend Website</h2>
+    <h2>Welcome to my first backend System</h2>
     `);
 });
 
